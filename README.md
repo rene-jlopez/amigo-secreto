@@ -10,7 +10,7 @@ Parte de este desafío y incluir un buen README información sobre la instalaci�
 <br>  
 
 **URL:**  
-<a href="https://rene-jlopez.github.io/amigo-secreto/" target="_blank" rel="noopener noreferrer"><code>"https://aplicacion/amigo-secreto.io"</code></a>
+[`https://aplicacion/amigo-secreto.io`](https://rene-jlopez.github.io/amigo-secreto/)
 
 <br>
 
