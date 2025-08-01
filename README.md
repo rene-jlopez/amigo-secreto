@@ -9,7 +9,7 @@ Parte de este desafío y incluir un buen README información sobre la instalaci�
 
 ## Descripción:
 
-Aplicación web simple para realizar sorteos de amigo secreto. Permite agregar nombres de participantes y seleccionar aleatoriamente quién será tu amigo secreto. Ideal para organizar intercambios de regalos en grupos de amigos, familia o trabajo.
+Esta es una aplicación web simple para realizar sorteos de amigo secreto. Permite agregar nombres de participantes y seleccionar aleatoriamente quién será tu amigo secreto. Ideal para organizar intercambios de regalos en grupos de amigos, familia o trabajo.
 
 ## 🚀 Cómo usar
 
