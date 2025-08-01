@@ -7,8 +7,12 @@ El Desafío Amigo Secreto es un ejercicio importante planteado dentro del progra
 
 Parte de este desafío y incluir un buen README información sobre la instalación, dependencias, cómo ejecutar el proyecto, y posibles problemas o soluciones. Esta práctica mejorará la documentación, y hará que tu proyecto sea más accesible y profesional para la comunidad.
 
+  
+
 **URL:**  
-[`https://aplicacion/amigo-secreto.io`](https://rene-jlopez.github.io/amigo-secreto/)
+<a href="https://rene-jlopez.github.io/amigo-secreto/" target="_blank" rel="noopener noreferrer"><code>https://aplicacion/amigo-secreto.io</code></a>
+
+
 
 ## Descripción:
 
@@ -32,3 +36,5 @@ Esta es una aplicación web simple para realizar sorteos de amigo secreto. Permi
 - Eventos de teclado y click
 - Generación de números aleatorios
 - Validaciones
+
+
