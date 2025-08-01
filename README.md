@@ -7,12 +7,12 @@ El Desafío Amigo Secreto es un ejercicio importante planteado dentro del progra
 
 Parte de este desafío y incluir un buen README información sobre la instalación, dependencias, cómo ejecutar el proyecto, y posibles problemas o soluciones. Esta práctica mejorará la documentación, y hará que tu proyecto sea más accesible y profesional para la comunidad.
 
-  
+<br>  
 
 **URL:**  
-<a href="https://rene-jlopez.github.io/amigo-secreto/" target="_blank" rel="noopener noreferrer"><code>https://aplicacion/amigo-secreto.io</code></a>
+<a href="https://rene-jlopez.github.io/amigo-secreto/" target="_blank" rel="noopener noreferrer"><code>"https://aplicacion/amigo-secreto.io"</code></a>
 
-
+<br>
 
 ## Descripción:
 
